@@ -74,4 +74,4 @@
 
 ## Карта ассоциаций для составления мудборда
 
-![Untitled](Карта ассоциаций.png)
+![Untitled](MapOfAssociations.png)
