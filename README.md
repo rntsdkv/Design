@@ -74,10 +74,4 @@
 
 ## Карта ассоциаций для составления мудборда
 
-![Untitled](%D0%94%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%20ee82cede14f645879c1b02655cf191d1/Untitled.png)
-
-### Анализ ЦА
-
-![Untitled](%D0%94%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%20ee82cede14f645879c1b02655cf191d1/Untitled%201.png)
-
-[Last exam](%D0%94%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%20ee82cede14f645879c1b02655cf191d1/Last%20exam%2083e7c9e115e94aea85ff92f85da97f87.md)
+![Untitled](Карта ассоциаций.png)
